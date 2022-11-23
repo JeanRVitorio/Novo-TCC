@@ -11,10 +11,6 @@
     height: 500px;
 }
 
-.banner__meio {
-    height: 25em;
-    width: 100%;
-}
 
 .card_largura {
     max-width: 18rem;
@@ -47,3 +43,8 @@
 .vagas {
     margin-top: 5em;
 }
+
+.foto__card {
+    height: 450px;
+}
+    
