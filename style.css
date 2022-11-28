@@ -26,6 +26,7 @@
 
 .footer_links {
     text-decoration: none;
+    background-image: url(./Imagens/371-3718708_duas-folhas-png-download-transparent-png.png);
 }
 
 .payment {
@@ -47,4 +48,22 @@
 .foto__card {
     height: 450px;
 }
+
+.form {
+    margin-top: 2em;
+    padding: 25em;
+    background-image:url(./Imagens/fundo-de-folhas-tropicais-criativas_52683-37223.webp);
+    color: azure;
+}
+
+.form__cadas {
+    border-radius: 4px 3px 6px;
     
+    font-family: var(--bs-body-font-family);
+}
+
+.cadas__titulo {
+    font-size: 28px;
+    text-align: center;
+    
+}
