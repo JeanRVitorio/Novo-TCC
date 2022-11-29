@@ -1,14 +1,32 @@
+* {
+    font-family: 'Cormorant Garamond', serif;
+}
 
+.nav__bar {
+    font-weight: bold;
+}
 
 .logo_imagem {
-    height:3em;
+    height: 3em;
 }
 
 .imagem_carrosel {
     margin-top: 4.5em;
     object-fit: cover;
-    
+
     height: 500px;
+}
+
+.titulo__carrosel {
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.text__carrosel {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 35px;
 }
 
 .banner__meio {
@@ -40,10 +58,43 @@
 }
 
 .sobrenos {
-    
-    align-content: center;
+    text-align: justify;
+}
+
+.banner__qmsomos {
+    margin-top: 4em;
+}
+
+.banner__sobreprodutos {
+    margin-top: 4em;
+}
+
+.banner__trabconosco {
+    margin-top: 4em;
+}
+
+.img__vagas {
+    margin: 0 2em 0 2em;
+}
+
+.vagas__text {
+    padding: 1em;
+    text-align: justify;
 }
 
 .vagas {
-    margin-top: 5em;
+
+    margin-top: 1em;
+    padding: 0 3em;
+    margin-bottom: 20px;
+}
+
+
+
+.cards__vagas {
+    padding-left: 1em;
+}
+
+.card__fts:hover {
+    border-color: red;
 }
