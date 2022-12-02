@@ -1,0 +1,149 @@
+* {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.nav__bar {
+    font-weight: bold;
+}
+
+.logo_imagem {
+    height: 3em;
+}
+
+.imagem_carrosel {
+    margin-top: 4.5em;
+    object-fit: cover;
+
+    height: 500px;
+}
+
+.titulo__carrosel {
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.text__carrosel {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.texto__index {
+    padding: 1em 5em;
+}
+
+.banner__meio {
+    height: 25em;
+    width: 100%;
+}
+
+.card_largura {
+    max-width: 18rem;
+}
+
+.borda_cor_especial {
+    border-color: darkred;
+}
+
+.imagem_logo {
+    height: 10em;
+}
+
+.footer_links {
+    text-decoration: none;
+}
+
+.payment {
+    display: flex;
+    list-style-type: none;
+    width: 25px;
+    justify-content: center;
+}
+
+.card__index {
+    width: 10em;
+}
+
+.sobrenos {
+    text-align: justify;
+    padding: 1em 3em;
+}
+
+.banner__qmsomos {
+    margin-top: 4em;
+    width: 75%;
+}
+
+.banner__sobreprodutos {
+    
+    width: 100%;
+    
+}
+
+.texto__sobreprod {
+    padding: 1em 5em;
+    text-align: justify;
+}
+
+.banner__trabconosco {
+    margin-top: 4em;
+    width: 100%;
+}
+
+.img__vagas {
+    margin: 0 2em 0 2em;
+}
+
+.vagas__text {
+    padding: 1em;
+    text-align: justify;
+}
+
+.vagas {
+
+    margin-top: 1em;
+    padding: 0 3em;
+    margin-bottom: 20px;
+}
+
+.cards__fund{
+    padding: 1em 5em;
+}
+
+.cards__vagas {
+    padding-left: 1em;
+}
+
+.titulo__text {
+    padding: 1em 5em;
+}
+
+.cards__fts {
+    transition: all 0,5s;
+    padding: 1em 5em;
+    margin-left: 5em;
+}
+
+.card__fts:hover {
+    border-color: red;
+    
+    transform: scale(1.01);
+}
+
+.cards__vaga {
+    transition: all 0,5s;
+    padding: 1em 5em;
+    margin-left: 5em;
+}
+
+.cards__vaga:hover {
+    border-color: red;
+    
+    transform: scale(1.01);
+}
+
+.form__cadas {
+    margin-top: 5em;
+    
+}  
